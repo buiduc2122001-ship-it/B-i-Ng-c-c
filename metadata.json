@@ -1,0 +1,5 @@
+{
+  "name": "Elevate Landing Page",
+  "description": "A modern, professional sales landing page with a contact form that submits data to Google Sheets via Google Apps Script.",
+  "requestFramePermissions": []
+}
